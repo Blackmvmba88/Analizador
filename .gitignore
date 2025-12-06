@@ -39,7 +39,6 @@ Thumbs.db
 
 # Analysis output files
 *_analysis.json
-*.json
 
 # Temporary files
 *.tmp
